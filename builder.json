@@ -1,0 +1,22 @@
+{
+  "project": "clipapp",
+  "platform": "ios",
+  "github": {
+    "owner": "afzalsiiit",
+    "repo": "ClipApp"
+  },
+  "provider": "github",
+  "codemagic": {},
+  "bitrise": {},
+  "ios": {
+    "path": "ios",
+    "bundleId": "com.example.clipapp"
+  },
+  "flutter": {
+    "version": "3.47.2",
+    "watch": {}
+  },
+  "reactNative": {},
+  "kmp": {},
+  "mobai": {}
+}
