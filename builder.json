@@ -11,7 +11,7 @@
   "ios": {
     "path": "ios",
     "bundleId": "com.example.clipapp",
-    "configuration": "Debug",
+    "configuration": "Debug"
     // "signing": false
   },
   "flutter": {
